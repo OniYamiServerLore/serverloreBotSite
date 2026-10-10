@@ -1,0 +1,13 @@
+WebsitePublisher.ai — project export
+====================================
+Project : My First Project
+Domain  : project30031.websitepublisher.ai
+Date    : 2026-10-10T20:58:27.015Z
+
+Contents:
+  *.html / pages  — fragments inlined, asset paths relative (works offline)
+  assets/...      — 6 file(s)
+  data/*.json     — no entities
+
+NOTE: This is a STATIC snapshot. Forms, live data fetches and integrations
+require the live WebsitePublisher platform and will not function offline.
